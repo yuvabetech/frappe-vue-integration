@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include vueapp *.css
+recursive-include vueapp *.csv
+recursive-include vueapp *.html
+recursive-include vueapp *.ico
+recursive-include vueapp *.js
+recursive-include vueapp *.json
+recursive-include vueapp *.md
+recursive-include vueapp *.png
+recursive-include vueapp *.py
+recursive-include vueapp *.svg
+recursive-include vueapp *.txt
+recursive-exclude vueapp *.pyc
