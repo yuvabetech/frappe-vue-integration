@@ -1,0 +1,19 @@
+{
+ "content": null,
+ "creation": "2022-05-27 12:11:56.164258",
+ "docstatus": 0,
+ "doctype": "Page",
+ "idx": 0,
+ "modified": "2022-05-27 12:11:56.164258",
+ "modified_by": "Administrator",
+ "module": "Vueapp",
+ "name": "startup",
+ "owner": "Administrator",
+ "page_name": "startup",
+ "roles": [],
+ "script": null,
+ "standard": "Yes",
+ "style": null,
+ "system_page": 0,
+ "title": "Startup"
+}

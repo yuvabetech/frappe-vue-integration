@@ -1,0 +1,8 @@
+{
+    "js/startup.min.js": [
+        "public/js/startup/main.js"
+    ],
+    "js/orderbooking.min.js": [
+        "public/js/order_booking/main.js"
+    ]
+}

@@ -14,7 +14,11 @@ app_license = "MIT"
 
 # include js, css files in header of desk.html
 # app_include_css = "/assets/vueapp/css/vueapp.css"
-# app_include_js = "/assets/vueapp/js/vueapp.js"
+app_include_js = [
+	"/assets/js/startup.min.js",
+	"/assets/js/orderbooking.min.js",
+	"/assets/vueapp/node_modules/vuetify/dist/vuetify.js",
+]
 
 # include js, css files in header of web template
 # web_include_css = "/assets/vueapp/css/vueapp.css"
